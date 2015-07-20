@@ -1,0 +1,102 @@
+[33mcommit 2922e4750c083fb9e5826edcc52d48dbbbafd324[m
+Author: unknown <bverad@M72E-MJ054G0.isl.gob.local>
+Date:   Wed Oct 22 14:39:40 2014 -0300
+
+    Cambios asociados a versión 1.0.4:
+    
+    Se corrigen las incidencias reportadas del proceso 4 y 5, y las incidencias
+    adicionales con id : 2,9,136 mas cambio transversal en configuración para
+    la generación de deploy por ambiente, lo que implica el archivo de
+    definición de spring beans Resources.groovy.
+
+[33mcommit 4878fa833a23ccee0ffdb5bcee65eaee00880357[m
+Author: unknown <bverad@M72E-MJ054G0.isl.gob.local>
+Date:   Thu Sep 25 15:17:17 2014 -0400
+
+    Cambios asociados a la versión 1.0.3 que incluyen los siguientes issues:
+     P4-01
+     P4-02
+     P4-03
+     P4-04
+    
+     En adhesión a esto se agregaron los siguientes cambios:
+     - SolicituId en taskdataService.
+     - Lo mismo para SolAnteAdicController y SolAnteAdicService.
+     - La vista dp02 asociada también fué modificada.
+     - Se ha agregado validación segun entorno para generación de archivos war.
+
+[33mcommit 1d50377dcb07fa1506251598895e1dafed2790a1[m
+Author: unknown <bverad@M72E-MJ054G0.isl.gob.local>
+Date:   Thu Sep 25 15:15:55 2014 -0400
+
+    Cambios asociados a la versión 1.0.3 que incluyen los siguientes issues:
+    P4-01
+    P4-02
+    P4-03
+    P4-04
+    
+    En adhesión a esto se agregaron los siguientes cambios:
+    - SolicituId en taskdataService.
+    - Lo mismo para SolAnteAdicController y SolAnteAdicService.
+    - La vista dp02 asociada también fué modificada.
+    - Se ha agregado validación segun entorno para generación de archivos war.
+
+[33mcommit f50a5179fa827e4ebff2f745f1803b4862774ae9[m
+Author: unknown <bverad@M72E-MJ054G0.isl.gob.local>
+Date:   Wed Sep 10 11:57:34 2014 -0400
+
+    Cambios para version 1.0.2 de spm que contiene los incidentes desde P1-I1 a P1-I9
+
+[33mcommit 7ffa7fe18d89acd58c550653c58ddd643719ea2a[m
+Merge: 26a285f 2405679
+Author: unknown <bverad@M72E-MJ054G0.isl.gob.local>
+Date:   Wed Sep 10 11:55:39 2014 -0400
+
+    Merge branch 'master' of 172.16.6.162:repos/SPM_QA
+
+[33mcommit 26a285f2973f5ee16589abf1d533d5afe940edec[m
+Author: unknown <bverad@M72E-MJ054G0.isl.gob.local>
+Date:   Wed Sep 10 11:54:11 2014 -0400
+
+    Los cambios incluidos corresponden a la versión 1.0.2 que incluyen los
+    incidentes con los ID:
+    P1-I1
+    P1-I2
+    P1-I3
+    P1-I4
+    P1-I5
+    P1-I6
+    P1-I7
+    P1-I8
+    P1-I9
+
+[33mcommit 24056793ada0a938cffafed86d1c36ea72423f26[m
+Author: unknown <jarenasm@M82E-MJ249YZ.isl.gob.local>
+Date:   Thu Sep 4 10:57:17 2014 -0400
+
+    Prueba de Hola
+
+[33mcommit 80086325519ca4ae828f43983bfb023ac2962940[m
+Merge: 586cacf 126fef7
+Author: unknown <jarenasm@M82E-MJ249YZ.isl.gob.local>
+Date:   Thu Sep 4 10:55:47 2014 -0400
+
+    Merge branch 'master' of git@172.16.6.162:repos/SPM_QA
+
+[33mcommit 586cacfbd343c8bd669a1f63e8f512247600b21d[m
+Author: unknown <jarenasm@M82E-MJ249YZ.isl.gob.local>
+Date:   Thu Sep 4 10:54:15 2014 -0400
+
+    prueba
+
+[33mcommit 126fef7b87237ad9f77ecba892802b440aa33ad2[m
+Author: unknown <bverad@M72E-MJ054G0.isl.gob.local>
+Date:   Thu Aug 21 15:38:50 2014 -0400
+
+    prueba
+
+[33mcommit 74076c00959bbb7a1cd866cc471eb26be188901f[m
+Author: unknown <jarenasm@M82E-MJ249YZ.isl.gob.local>
+Date:   Thu Aug 21 15:24:43 2014 -0400
+
+    Commit Inicial
