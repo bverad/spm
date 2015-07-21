@@ -13,6 +13,8 @@ import cl.adexus.isl.spm.*;
 
 class FlashHelper {
 
+   def seguimientoService
+
    def Map serializeModel(Map model) {
 		Map newModel = new HashMap()
         for (Map.Entry<String, Object> entry : model.entrySet()) {
@@ -104,7 +106,7 @@ class FlashHelper {
 		// Validamos si el objeto a mapear tiene ID
 		if (_value.id) {
 			println "ID: ${_value.id}"
-			newInstance = (new cl.adexus.isl.spm.SeguimientoService()).getUtils(_value.class, _value.id)
+			newInstance = seguimientoService.getUtils(_value.class, _value.id)
 			// TODO: Setear atributos del map al objeto obtenido
 			println "newInstance: ${newInstance}"
 		} else {
