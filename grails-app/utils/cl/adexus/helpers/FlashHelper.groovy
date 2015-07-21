@@ -9,7 +9,7 @@ import java.util.Map;
 import org.springframework.context.MessageSource;
 import org.springframework.context.NoSuchMessageException;
 
-import cl.adexus.isl.spm.PersonaJuridica;
+import cl.adexus.isl.spm.*;
 
 class FlashHelper {
 
